@@ -1,0 +1,10 @@
+torch==2.2.2
+transformers==4.40.2
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+tqdm==4.66.4
+matplotlib==3.8.4
+sentencepiece==0.2.0
+safetensors==0.4.3
+umap-learn==0.5.6

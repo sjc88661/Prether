@@ -1,0 +1,92 @@
+﻿id,prob_c0,prob_c1,prob_c2,pred
+WP_011498285.1 hypothetical protein [Methanococcoides burtonii],0.15082778,0.059986003,0.7891862,2
+WP_011498307.1 PGF-pre-PGF domain-containing protein [Methanococcoides burtonii],0.009257986,0.0009993673,0.98974264,2
+WP_011498342.1 hypothetical protein [Methanococcoides burtonii],0.053046428,0.016851617,0.930102,2
+WP_011498343.1 hypothetical protein [Methanococcoides burtonii],0.10428576,0.052096725,0.84361756,2
+WP_011498407.1 outer membrane lipoprotein-sorting protein [Methanococcoides burtonii],0.040456444,0.039685912,0.9198576,2
+WP_011498409.1 hypothetical protein [Methanococcoides burtonii],0.054620974,0.23223408,0.7131449,2
+WP_011498410.1 right-handed parallel beta-helix repeat-containing protein [Methanococcoides burtonii],0.031959046,0.010828305,0.9572126,2
+WP_011498459.1 META domain-containing protein [Methanococcoides burtonii],0.033902876,0.004476838,0.9616202,2
+WP_011498485.1 c-type cytochrome [Methanococcoides burtonii],0.885297,0.016973201,0.097729765,0
+WP_011498489.1 hypothetical protein [Methanococcoides burtonii],0.40268117,0.28970876,0.30761012,0
+WP_011498499.1 hypothetical protein [Methanococcoides burtonii],0.025797144,0.010525908,0.9636768,2
+WP_011498614.1 multiheme c-type cytochrome [Methanococcoides burtonii],0.20200305,0.012452135,0.7855448,2
+WP_011498634.1 glycine betaine ABC transporter substrate-binding protein [Methanococcoides burtonii],0.09879939,0.02305092,0.8781496,2
+WP_011498645.1 ABC transporter substrate-binding protein [Methanococcoides burtonii],0.022504024,0.0061474103,0.9713486,2
+WP_011498648.1 glycine betaine ABC transporter substrate-binding protein [Methanococcoides burtonii],0.039003164,0.017035127,0.9439616,2
+WP_011498657.1 PEF-CTERM sorting domain-containing protein [Methanococcoides burtonii],0.21843782,0.01869778,0.7628644,2
+WP_011498672.1 C39 family peptidase [Methanococcoides burtonii],0.08652499,0.052089863,0.86138517,2
+WP_011498740.1 COG1470 family protein [Methanococcoides burtonii],0.7317456,0.022384422,0.24586995,0
+WP_011498790.1 hypothetical protein [Methanococcoides burtonii],0.04463759,0.0075849206,0.94777745,2
+WP_011498794.1 DUF3160 domain-containing protein [Methanococcoides burtonii],0.18935892,0.04606593,0.7645751,2
+WP_011498795.1 hypothetical protein [Methanococcoides burtonii],0.021159876,0.8913946,0.08744557,1
+WP_011498799.1 hypothetical protein [Methanococcoides burtonii],0.45328397,0.033146247,0.5135697,2
+WP_011498800.1 COG1470 family protein [Methanococcoides burtonii],0.0552227,0.0052927197,0.9394846,2
+WP_011498802.1 UPF0228 family protein [Methanococcoides burtonii],0.41709405,0.47920138,0.10370467,1
+WP_011498816.1 DUF3887 domain-containing protein [Methanococcoides burtonii],0.6364001,0.007518387,0.3560815,0
+WP_011498825.1 serpin family protein [Methanococcoides burtonii],0.01200505,0.00848254,0.9795125,2
+WP_011498852.1 cohesin domain-containing protein [Methanococcoides burtonii],0.20741534,0.008218685,0.784366,2
+WP_011498869.1 PstS family phosphate ABC transporter substrate-binding protein [Methanococcoides burtonii],0.03534008,0.012674011,0.95198596,2
+WP_011498937.1 hypothetical protein [Methanococcoides burtonii],0.27913707,0.023323044,0.6975398,2
+WP_011499077.1 hypothetical protein [Methanococcoides burtonii],0.07277708,0.0897699,0.83745307,2
+WP_011499096.1 YbhB/YbcL family Raf kinase inhibitor-like protein [Methanococcoides burtonii],0.1193805,0.014555444,0.8660641,2
+WP_011499102.1 acetolactate decarboxylase [Methanococcoides burtonii],0.016863024,0.00184354,0.9812934,2
+"WP_011499103.1 metal ABC transporter solute-binding protein, Zn/Mn family [Methanococcoides burtonii]",0.016427934,0.01087687,0.9726952,2
+WP_011499111.1 type IV pilin [Methanococcoides burtonii],0.7562212,0.0056519317,0.23812684,0
+WP_011499162.1 hypothetical protein [Methanococcoides burtonii],0.15566297,0.11170854,0.7326285,2
+WP_011499171.1 ABC transporter substrate-binding protein [Methanococcoides burtonii],0.20094804,0.04536578,0.75368613,2
+WP_011499184.1 DUF6973 domain-containing protein [Methanococcoides burtonii],0.14634562,0.32723644,0.526418,2
+WP_011499186.1 YncE family protein [Methanococcoides burtonii],0.070955686,0.06876443,0.86027986,2
+WP_011499187.1 C39 family peptidase [Methanococcoides burtonii],0.13150074,0.33201122,0.53648806,2
+WP_011499191.1 C39 family peptidase [Methanococcoides burtonii],0.64154476,0.10334329,0.255112,0
+WP_011499218.1 YbaY family lipoprotein [Methanococcoides burtonii],0.19235976,0.0045523765,0.80308783,2
+WP_011499224.1 PD40 domain-containing protein [Methanococcoides burtonii],0.040816803,0.022512093,0.9366711,2
+WP_011499225.1 PD40 domain-containing protein [Methanococcoides burtonii],0.040323637,0.019630998,0.94004536,2
+WP_011499267.1 hypothetical protein [Methanococcoides burtonii],0.044976436,0.008167417,0.94685614,2
+WP_011499270.1 HEAT repeat domain-containing protein [Methanococcoides burtonii],0.017843759,0.0038181227,0.9783381,2
+WP_011499412.1 hypothetical protein [Methanococcoides burtonii],0.10702039,0.1123451,0.7806345,2
+WP_011499413.1 hypothetical protein [Methanococcoides burtonii],0.16058385,0.070357546,0.7690586,2
+WP_011499462.1 hypothetical protein [Methanococcoides burtonii],0.037365675,0.011746621,0.9508878,2
+WP_011499467.1 protease inhibitor I42 family protein [Methanococcoides burtonii],0.04969289,0.010449993,0.9398571,2
+WP_011499599.1 PGF-pre-PGF domain-containing protein [Methanococcoides burtonii],0.029676652,0.007929332,0.96239406,2
+WP_011499613.1 DUF2953 domain-containing protein [Methanococcoides burtonii],0.0770129,0.007636069,0.91535103,2
+WP_011499620.1 flagellar protein F [Methanococcoides burtonii],0.037029628,0.0078023584,0.95516807,2
+WP_011499669.1 hypothetical protein [Methanococcoides burtonii],0.080258004,0.066990435,0.85275155,2
+WP_011499675.1 hypothetical protein [Methanococcoides burtonii],0.22827835,0.03789543,0.7338263,2
+WP_011499726.1 hypothetical protein [Methanococcoides burtonii],0.4475696,0.012163887,0.5402665,2
+WP_011499727.1 S-layer protein domain-containing protein [Methanococcoides burtonii],0.077256046,0.005050428,0.9176936,2
+WP_011499745.1 YcdB/YcdC domain-containing protein [Methanococcoides burtonii],0.09618257,0.030130204,0.87368715,2
+WP_011499747.1 M12 family metallo-peptidase [Methanococcoides burtonii],0.20029978,0.039403982,0.7602962,2
+WP_011499775.1 serpin family protein [Methanococcoides burtonii],0.021434674,0.0075217457,0.9710436,2
+WP_011499778.1 hypothetical protein [Methanococcoides burtonii],0.055432826,0.6187808,0.32578635,1
+WP_011499779.1 hypothetical protein [Methanococcoides burtonii],0.27308938,0.46669865,0.26021194,1
+WP_011499782.1 hypothetical protein [Methanococcoides burtonii],0.60057944,0.29244635,0.1069742,0
+WP_011499847.1 hypothetical protein [Methanococcoides burtonii],0.16403058,0.043181367,0.792788,2
+WP_011499852.1 LolA family protein [Methanococcoides burtonii],0.07315541,0.04382738,0.8830172,2
+WP_011499853.1 hypothetical protein [Methanococcoides burtonii],0.20016494,0.20955849,0.59027654,2
+WP_011499855.1 S1 family peptidase [Methanococcoides burtonii],0.116004206,0.083502054,0.8004937,2
+WP_011499857.1 hypothetical protein [Methanococcoides burtonii],0.57702893,0.020667667,0.4023034,0
+WP_011499944.1 hypothetical protein [Methanococcoides burtonii],0.12098952,0.0560204,0.82299006,2
+WP_011500023.1 Ig-like domain-containing protein [Methanococcoides burtonii],0.49221903,0.020280898,0.4875001,0
+WP_011500077.1 hypothetical protein [Methanococcoides burtonii],0.8657179,0.07795139,0.056330718,0
+WP_011500079.1 hypothetical protein [Methanococcoides burtonii],0.017611412,0.0068603284,0.97552824,2
+WP_011500080.1 hypothetical protein [Methanococcoides burtonii],0.3351325,0.08755442,0.57731307,2
+WP_011500143.1 ABC transporter substrate-binding protein [Methanococcoides burtonii],0.12266777,0.03127549,0.84605676,2
+WP_011500342.1 thioredoxin family protein [Methanococcoides burtonii],0.09021449,0.0043445844,0.9054409,2
+WP_011500356.1 OB-fold protein [Methanococcoides burtonii],0.44085354,0.008318031,0.55082846,2
+WP_011500410.1 hypothetical protein [Methanococcoides burtonii],0.027493298,0.0037793093,0.9687274,2
+WP_048063181.1 hypothetical protein [Methanococcoides burtonii],0.14962636,0.012230983,0.8381426,2
+WP_048063199.1 molybdopterin-dependent oxidoreductase [Methanococcoides burtonii],0.06373987,0.009146997,0.9271132,2
+WP_048063245.1 PEF-CTERM sorting domain-containing protein [Methanococcoides burtonii],0.080832936,0.8115851,0.107581995,1
+WP_048063289.1 hypothetical protein [Methanococcoides burtonii],0.061145283,0.7326833,0.20617147,1
+WP_048063319.1 DUF4430 domain-containing protein [Methanococcoides burtonii],0.5365155,0.032279722,0.43120474,0
+WP_048063364.1 hypothetical protein [Methanococcoides burtonii],0.041948225,0.02614091,0.9319108,2
+WP_157196624.1 hypothetical protein [Methanococcoides burtonii],0.015645538,0.0038626506,0.9804918,2
+WP_157196634.1 hypothetical protein [Methanococcoides burtonii],0.59764624,0.044115476,0.3582383,0
+WP_157196702.1 hypothetical protein [Methanococcoides burtonii],0.050689213,0.004168564,0.94514227,2
+WP_157196706.1 thermonuclease family protein [Methanococcoides burtonii],0.035442807,0.033018466,0.9315387,2
+WP_198003773.1 winged helix-turn-helix transcriptional regulator [Methanococcoides burtonii],0.052248366,0.00980976,0.9379419,2
+WP_198003775.1 HEAT repeat domain-containing protein [Methanococcoides burtonii],0.026970139,0.007983056,0.96504676,2
+WP_198003790.1 HEAT repeat domain-containing protein [Methanococcoides burtonii],0.015194019,0.003879353,0.98092663,2
+WP_198003802.1 hypothetical protein [Methanococcoides burtonii],0.2598769,0.012473035,0.72765005,2
+WP_232222100.1 iron ABC transporter substrate-binding protein [Methanococcoides burtonii],0.021988701,0.0033141598,0.9746971,2

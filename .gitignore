@@ -1,0 +1,30 @@
+# Backbone models downloaded locally
+/prot_t5_xl_uniref50/
+/ProPrime_650M_OGT_Prediction/
+
+# Runtime caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.DS_Store
+
+# Prediction and evaluation scratch outputs
+/predict-T5+Prime-token/pred_*/
+/predict-T5+Prime-token/pre-*/
+/predict-T5+Prime-token/pred_out/
+/predict-T5+Prime-token/fusion_cache/
+/train-T5+Prime/fusion_cache/
+/test-T5+Prime_token/fusion_cache/
+/test-T5+Prime_token/test_out/
+
+# Keep curated release assets and trained fusion heads
+!/examples/
+!/results/
+!/train-T5+Prime/fusion_out/
+!/train-T5+Prime/fusion_out/best_head_fold_1.pt
+!/train-T5+Prime/fusion_out/best_head_fold_2.pt
+!/train-T5+Prime/fusion_out/best_head_fold_3.pt
+!/train-T5+Prime/fusion_out/best_head_fold_4.pt
+!/train-T5+Prime/fusion_out/best_head_fold_5.pt
