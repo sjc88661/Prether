@@ -30,10 +30,6 @@
 
 ---
 
-## Overview
-
----
-
 ## Dataset
 
 The dataset used in this study consists of protein sequences annotated with thermal adaptation classes.
